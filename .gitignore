@@ -60,3 +60,4 @@ buck-out/
 
 #environment variables
 *.env
+config.bat
